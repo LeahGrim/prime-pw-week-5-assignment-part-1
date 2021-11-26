@@ -13,7 +13,7 @@ const me = {
      lastName: 'Nebulosa ',
      hasSiblings: true,
      shoeCount: 12 ,
-     favThreeFoods: ['Tuna ', 'Salmon ', 'Milk ' ],
+     favThreeFoods: ['Tuna ', 'Salmon ', 'Milk '],
 
   // TODO - add properties here
 };
