@@ -11,7 +11,7 @@ console.log('***** Object Practice *****')
 const me = {
      firstName: 'Opal ',
      lastName: 'Nebulosa ',
-     hasSiblings: 'Ruby ',
+     hasSiblings: true,
      shoeCount: 12 ,
      favThreeFoods: ['Tuna ', 'Salmon ', 'Milk ' ],
 
